@@ -1,0 +1,48 @@
+.jk {
+    border: 10px ridge gold;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Roboto";
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 100px;
+    padding: 5px;
+    width: 150px;
+}
+
+.gh {
+    text-align: center;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: gold;
+}
+
+/* mouse over link */
+a:hover {
+    color: purple;
+}
+
+.ty {
+    color: silver;
+}
+
+.hm {
+    font-family: Texturina;
+    color: silver;
+}
+
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/middle/b/a/e/837575-nice-black-background-2560x1600-for-phone.jpg");
+}
